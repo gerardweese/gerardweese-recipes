@@ -14,7 +14,7 @@
         <string>https://www.zoom.us/client/latest/zoomusInstaller.pkg</string>
     </dict>
     <key>MinimumVersion</key>
-    <string>3.0</string>
+    <string>0.3.0</string>
     <key>Process</key>
     <array>
         <dict>
