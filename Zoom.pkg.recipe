@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+    <key>Parent Recipe/key>
+    <string>com.github.gerardweese.download.zoom</>
+    <key>Identifier</key>
+    <string>com.github.gerardweese.pkg.zoom</string>
+</dict>
+</plist>
